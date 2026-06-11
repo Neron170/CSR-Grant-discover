@@ -1,0 +1,6 @@
+{
+  "name": "Indian CSR Grant Discovery Portal",
+  "description": "A rule-based, deterministic scraping and discovery platform for verified Indian CSR (Corporate Social Responsibility) grants, RFPs, and company filings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
