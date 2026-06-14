@@ -1,0 +1,7 @@
+# Ignore local Python files during Vercel deployment build
+# This avoids triggering Vercel's Python builder which fails with greenlet/playwright compilation
+requirements.txt
+scraper.py
+app.py
+csr_grants.db
+scraper_debug.log
